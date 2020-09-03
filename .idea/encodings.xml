@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/config/Global.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/filter/LoginFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/mapper/JsonMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/persistence/BaseEntity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/persistence/CrudDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/persistence/DataEntity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/persistence/Page.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/persistence/Reflections.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/persistence/TreeDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/persistence/TreeEntity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/persistence/dialect/Dialect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/security/Digests.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/service/BaseService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/service/CrudService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/service/ServiceException.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/service/TreeService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/utils/Collections3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/utils/CookieUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/utils/DateUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/utils/DictUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/utils/EhCacheUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/utils/Encodes.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/utils/Exceptions.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/utils/IdGen.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/utils/PropertiesLoader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/utils/SpringContextHolder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/utils/StringUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/utils/UserUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/web/BaseController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/common/web/Servlets.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/dao/AreaDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/dao/DictDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/dao/RoleDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/dao/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/entity/Area.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/entity/Dict.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/entity/Log.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/entity/Menu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/entity/Office.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/entity/Role.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/entity/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/service/DictService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/service/SystemService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/web/AreaController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/web/DictController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/web/LoginController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/web/MenuController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/web/OfficeController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/web/RoleController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/web/TagController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/action/modules/sys/web/UserController.java" charset="GBK" />
+  </component>
+</project>

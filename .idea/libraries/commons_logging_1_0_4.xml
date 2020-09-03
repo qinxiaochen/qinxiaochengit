@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/commons-pool2-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/core-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/dozer-5.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/druid-1.0.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/ehcache-core-2.6.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/ehcache-web-2.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/fop-0.94.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/freemarker-2.3.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/groovy-all-2.4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
