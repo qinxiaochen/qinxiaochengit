@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="qinxiaochengit:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>qinxiaochengit</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Maven00.war">
+      <element id="artifact" artifact-name="qinxiaochengit:war exploded" />
+    </root>
+  </artifact>
+</component>
